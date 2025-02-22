@@ -7,11 +7,13 @@ You can click the Preview link to take a look at your changes.
 # Usage
 
 kiss muna
-# In Linux and Termux(Android):
-sudo python3 mafia.py
-# In Windows:
-run the mafia.py as administrator
-# Enjoy Hacking!
+# windows, android:
+pyhton
+html
+php
+css
+c++
+# Enjoy Coding!
 # Output:
 ![deauth](https://github.com/user-attachments/assets/4ef9290b-5a8e-473c-93da-7d3a122c244b)
 # Probihited Use:
