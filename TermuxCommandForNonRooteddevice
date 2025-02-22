@@ -1,0 +1,66 @@
+apt update && upgrade -y
+
+clear
+
+apt-get install weget -y
+
+apt-get install proot -y
+
+pkg install git
+
+clear
+
+cd ~
+
+git clone https://github.com/MFDGaming/ubuntu-in-termux.git
+
+clear
+
+ls
+
+cd ubuntu-in-termux
+
+chmod +× ubuntu.sh
+
+./ubuntu.sh -y
+
+clear
+
+ls
+./startubuntu.sh
+
+clear
+
+whoami
+
+pwd
+
+clear
+
+apt-get update
+
+clear
+
+apt install sudo
+
+sudo
+
+clear
+
+sudo apt install wifite
+
+y
+
+clear
+
+wifite
+
+aircrack-ng
+
+clear
+
+exit
+
+./starubuntu.sh
+
+sudo wifite
