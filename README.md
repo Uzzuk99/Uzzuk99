@@ -3,13 +3,10 @@ Uzzuk99/Uzzuk99 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# WifiMafia tutorial
+# command and codes tutorial
 # Usage
-pip3 install ctypes
 
-pip3 install time
-
-pip3 install platform
+kiss muna
 # In Linux and Termux(Android):
 sudo python3 mafia.py
 # In Windows:
