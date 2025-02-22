@@ -1,12 +1,8 @@
-
-Uzzuk99/Uzzuk99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# command and codes tutorial
+# command and codes tutorial 
 # Usage
 
 kiss muna
+
 # windows, android:
 pyhton
 html
